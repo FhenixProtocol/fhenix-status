@@ -20,7 +20,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /fhenix-status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/FhenixProtocol/fhenix-status/master/assets/Fhenix.svg
   name: Upptime
   introTitle: "**FHENIX STATUS** page monitoring the uptime of all Fhenix Testnet Services."
   introMessage: ""
