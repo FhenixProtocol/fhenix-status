@@ -24,7 +24,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/FhenixProtocol/fhenix-status/master/assets/Fhenix.svg
   name: ""
   theme: dark
-  introTitle: "**FHENIX STATUS** page monitoring the uptime of all Fhenix Testnet Services."
+  introTitle: "Status page monitoring the uptime of all Fhenix Testnet Services."
   introMessage: ""
   navbar:
     - title: Status
