@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3864,
-    "timeDay": 3864,
-    "timeWeek": 3864,
-    "timeMonth": 3864,
-    "timeYear": 3864,
+    "time": 2455,
+    "timeDay": 2455,
+    "timeWeek": 2455,
+    "timeMonth": 2455,
+    "timeYear": 2455,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/explorer.testnet.fhenix.zone.ico",
     "slug": "fhenix-explorer",
     "status": "down",
-    "uptime": "55.10%",
-    "uptimeDay": "55.10%",
-    "uptimeWeek": "55.10%",
-    "uptimeMonth": "55.10%",
-    "uptimeYear": "55.10%",
-    "time": 3414,
-    "timeDay": 3414,
-    "timeWeek": 3414,
-    "timeMonth": 3414,
-    "timeYear": 3414,
+    "uptime": "4.36%",
+    "uptimeDay": "4.36%",
+    "uptimeWeek": "4.36%",
+    "uptimeMonth": "4.36%",
+    "uptimeYear": "4.36%",
+    "time": 3154,
+    "timeDay": 3154,
+    "timeWeek": 3154,
+    "timeMonth": 3154,
+    "timeYear": 3154,
     "dailyMinutesDown": {
-      "2024-03-26": 0
+      "2024-03-26": 3
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 79,
-    "timeDay": 79,
-    "timeWeek": 79,
-    "timeMonth": 79,
-    "timeYear": 79,
+    "time": 101,
+    "timeDay": 101,
+    "timeWeek": 101,
+    "timeMonth": 101,
+    "timeYear": 101,
     "dailyMinutesDown": {}
   }
 ]
