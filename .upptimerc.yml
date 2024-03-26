@@ -16,6 +16,8 @@ sites:
     port: 80
     check: "tcp-ping"
     ipv6: true
+  - name: Fhenix Docs
+    url: https://docs.fhenix.zone
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
