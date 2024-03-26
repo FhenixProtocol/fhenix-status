@@ -4,18 +4,20 @@
     "url": "$TESTNET_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fhenix-testnet",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2455,
-    "timeDay": 2455,
-    "timeWeek": 2455,
-    "timeMonth": 2455,
-    "timeYear": 2455,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 4786,
+    "timeDay": 4786,
+    "timeWeek": 4786,
+    "timeMonth": 4786,
+    "timeYear": 4786,
+    "dailyMinutesDown": {
+      "2024-03-26": 0
+    }
   },
   {
     "name": "Fhenix Explorer",
@@ -23,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/explorer.testnet.fhenix.zone.ico",
     "slug": "fhenix-explorer",
     "status": "down",
-    "uptime": "4.36%",
-    "uptimeDay": "4.36%",
-    "uptimeWeek": "4.36%",
-    "uptimeMonth": "4.36%",
-    "uptimeYear": "4.36%",
+    "uptime": "0.10%",
+    "uptimeDay": "0.10%",
+    "uptimeWeek": "0.10%",
+    "uptimeMonth": "0.10%",
+    "uptimeYear": "0.10%",
     "time": 3154,
     "timeDay": 3154,
     "timeWeek": 3154,
     "timeMonth": 3154,
     "timeYear": 3154,
     "dailyMinutesDown": {
-      "2024-03-26": 3
+      "2024-03-26": 158
     }
   },
   {
