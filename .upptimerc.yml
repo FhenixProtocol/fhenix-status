@@ -21,8 +21,8 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /fhenix-status
   logoUrl: https://raw.githubusercontent.com/FhenixProtocol/fhenix-status/master/assets/Fhenix.svg
-  name: Fhenix Status
-  theme: ocean
+  # name:
+  theme: dark
   introTitle: "**FHENIX STATUS** page monitoring the uptime of all Fhenix Testnet Services."
   introMessage: ""
   navbar:
