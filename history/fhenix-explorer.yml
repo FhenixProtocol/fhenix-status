@@ -1,7 +1,7 @@
 url: https://explorer.testnet.fhenix.zone/api/v2/config/backend-version
-status: down
-code: 502
-responseTime: 2391
-lastUpdated: 2024-03-28T20:40:01.063Z
+status: up
+code: 200
+responseTime: 436
+lastUpdated: 2024-03-28T21:59:16.920Z
 startTime: 2024-03-26T11:27:33.125Z
 generator: Upptime <https://github.com/upptime/upptime>
