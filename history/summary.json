@@ -5,11 +5,11 @@
     "icon": "https://www.fhenix.io/wp-content/uploads/2023/09/cropped-Favicon_Dark-32x32.png",
     "slug": "testnet-api-endpoint",
     "status": "up",
-    "uptime": "99.20%",
+    "uptime": "99.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.20%",
+    "uptimeYear": "99.21%",
     "time": 2717,
     "timeDay": 1645,
     "timeWeek": 2770,
@@ -26,11 +26,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/explorer.testnet.fhenix.zone.ico",
     "slug": "fhenix-explorer",
     "status": "up",
-    "uptime": "99.29%",
+    "uptime": "99.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.29%",
+    "uptimeYear": "99.31%",
     "time": 578,
     "timeDay": 367,
     "timeWeek": 458,
@@ -82,9 +82,9 @@
     "url": "https://www.fhenix.io",
     "icon": "https://icons.duckduckgo.com/ip3/www.fhenix.io.ico",
     "slug": "landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -93,6 +93,8 @@
     "timeWeek": 316,
     "timeMonth": 295,
     "timeYear": 301,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-06": 0
+    }
   }
 ]
