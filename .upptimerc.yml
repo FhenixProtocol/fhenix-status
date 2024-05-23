@@ -7,7 +7,7 @@ sites:
     url: $TESTNET_ENDPOINT
     icon: https://www.fhenix.io/wp-content/uploads/2023/09/cropped-Favicon_Dark-32x32.png
   - name: Fhenix Explorer
-    url: https://explorer.testnet.fhenix.zone/api/v2/config/backend-version
+    url: https://explorer.helium.fhenix.zone/api/v2/config/backend-version
   - name: Fhenix Docs
     url: https://docs.fhenix.zone
   - name: Faucet
