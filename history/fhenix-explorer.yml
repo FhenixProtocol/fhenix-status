@@ -1,7 +1,7 @@
 url: https://explorer.helium.fhenix.zone/api/v2/config/backend-version
-status: down
-code: 502
-responseTime: 286
-lastUpdated: 2024-05-30T10:48:43.617Z
+status: up
+code: 200
+responseTime: 295
+lastUpdated: 2024-05-30T11:07:27.546Z
 startTime: 2024-03-26T11:27:33.125Z
 generator: Upptime <https://github.com/upptime/upptime>
