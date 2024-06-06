@@ -5,14 +5,14 @@
     "icon": "https://www.fhenix.io/wp-content/uploads/2023/09/cropped-Favicon_Dark-32x32.png",
     "slug": "testnet-api-endpoint",
     "status": "up",
-    "uptime": "90.04%",
+    "uptime": "90.15%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "71.14%",
+    "uptimeWeek": "72.02%",
     "uptimeMonth": "77.70%",
-    "uptimeYear": "90.04%",
+    "uptimeYear": "90.15%",
     "time": 2708,
     "timeDay": 2760,
-    "timeWeek": 3275,
+    "timeWeek": 2733,
     "timeMonth": 2696,
     "timeYear": 2708,
     "dailyMinutesDown": {
@@ -39,12 +39,12 @@
     "status": "up",
     "uptime": "99.54%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.36%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.54%",
     "time": 507,
     "timeDay": 502,
-    "timeWeek": 405,
+    "timeWeek": 427,
     "timeMonth": 408,
     "timeYear": 507,
     "dailyMinutesDown": {
@@ -77,9 +77,9 @@
     "url": "https://faucet.fhenix.zone",
     "icon": "https://icons.duckduckgo.com/ip3/faucet.fhenix.zone.ico",
     "slug": "faucet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -88,7 +88,9 @@
     "timeWeek": 2226,
     "timeMonth": 2744,
     "timeYear": 2659,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-06": 0
+    }
   },
   {
     "name": "Landing Page",
