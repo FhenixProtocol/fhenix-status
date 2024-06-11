@@ -11,7 +11,7 @@ sites:
   - name: Fhenix Docs
     url: https://docs.fhenix.zone
   - name: Faucet
-    url: https://faucet.fhenix.zone
+    url: https://get-helium.fhenix.zone
   - name: Landing Page
     url: https://www.fhenix.io
 
