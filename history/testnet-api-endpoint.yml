@@ -1,7 +1,7 @@
 url: $TESTNET_ENDPOINT
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-10T03:47:37.055Z
+status: up
+code: 200
+responseTime: 2043
+lastUpdated: 2024-09-10T03:53:36.182Z
 startTime: 2024-03-26T14:50:37.250Z
 generator: Upptime <https://github.com/upptime/upptime>
